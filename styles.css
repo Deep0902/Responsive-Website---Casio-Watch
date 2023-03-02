@@ -54,13 +54,11 @@ nav ul li a:hover {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin: 10px 0;
 }
 
 .col-1 {
   flex-basis: 40%;
   position: relative;
-  margin-left: 50px;
 }
 
 .col-1 h2 {
